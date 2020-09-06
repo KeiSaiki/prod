@@ -1,3 +1,3 @@
 $('.sleeping').click(function(){
-  $(this).text('😳');
+  $('p').text('😳');
 });
