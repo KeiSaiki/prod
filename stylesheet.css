@@ -3,16 +3,5 @@
 }
 
 .niku-img {
-width: 2000px;
-}
-
-@media(max-width: 3000px) {
-  .niku-img {
-    width: 40%;
-  }
-}
-@media(max-width: 1250px) {
-  .niku-img {
-    width: 15%;
-  }
+width: 1000px;
 }
