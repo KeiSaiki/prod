@@ -2,8 +2,13 @@
   cursor: pointer;
 }
 
-@media(max-width: 1000px) {
+@media(max-width: 3000px) {
   .niku {
-    width: 100%;
+    width: 40%;
+  }
+}
+@media(max-width: 1250px) {
+  .niku {
+    width: 15%;
   }
 }
