@@ -1,14 +1,9 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title></title>
-  </head>
-  <body>
-    <h1>scribble>></h1>
-    <div class="niku">
-      <img class="niku-img" src="niku.png">
-      <a href="https://www.nichireifoods.co.jp/media/3572/">🥩🥩🥩</a>
-    </div>
-  </body>
-</html>
+.niku{
+  cursor: pointer;
+}
+
+@media(max-width: 1000px) {
+  .niku {
+    width: 100%;
+  }
+}
