@@ -2,13 +2,17 @@
   cursor: pointer;
 }
 
+.niku-img {
+width: 2000px;
+}
+
 @media(max-width: 3000px) {
-  .niku {
+  .niku-img {
     width: 40%;
   }
 }
 @media(max-width: 1250px) {
-  .niku {
+  .niku-img {
     width: 15%;
   }
 }
